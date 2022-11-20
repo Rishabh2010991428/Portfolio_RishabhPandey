@@ -1,0 +1,24 @@
+
+.home{
+    height: 100%;
+}
+.Section-heading{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-top: 15vh;
+}
+.Education-heading{
+    font-size: xx-large;
+    font-weight: 700;
+
+}
+.interest-heading{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-top: 10vh;
+}
+.skill-heading{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-top: 10vh;
+}
